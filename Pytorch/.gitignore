@@ -1,0 +1,5 @@
+runs/
+checkpoints/
+photos/
+*.pyc
+pretrained/
