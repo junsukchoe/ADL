@@ -21,5 +21,4 @@ python train.py \
       --depth 50 \
       --gating_position 31 41 5 \
       --adl_keep_prob 0.25 \
-      --adl_threshold 0.90 \
-      --max_drop_prob 0.10
+      --adl_threshold 0.90 
