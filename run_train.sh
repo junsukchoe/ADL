@@ -18,7 +18,6 @@ python train.py \
       --log_dir ResNet50SE_CUB \
       --use_pretrained_model \
       --batch 32 \
-      --depth 50 \
       --gating_position 31 41 5 \
       --adl_keep_prob 0.25 \
       --adl_threshold 0.90 
